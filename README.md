@@ -72,10 +72,14 @@ streamlit run streamlit_app.py
 ## Project Structure
 ```
 📂 your-repository
-│── 📜 requirements.txt      # Dependencies for the project
-│── 📜 streamlit_app.py      # Streamlit app (Main entry point)
-│── 📜 notebook.ipynb        # Jupyter Notebook (For testing/experiments)
-│── 📄 README.md             # Project documentation
+│── 📜 README.md              # Project documentation
+│── 📜 requirements.txt       # Dependencies
+│── 📂 src                    # Source code
+│   │── 📜 streamlit_app.py   # Streamlit app (main entry point)
+│   │── 📜 notebook.ipynb     # Jupyter Notebook (for testing/experiments)
+│── 📂 img                    # Images folder
+│   │── 📸 screenshot.png     # Screenshot of the app
+
 ```
 
 ---
