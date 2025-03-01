@@ -74,9 +74,8 @@ streamlit run streamlit_app.py
 📂 your-repository
 │── 📜 README.md              # Project documentation
 │── 📜 requirements.txt       # Dependencies
-│── 📂 src                    # Source code
-│   │── 📜 streamlit_app.py   # Streamlit app (main entry point)
-│   │── 📜 notebook.ipynb     # Jupyter Notebook (for testing/experiments)
+│── 📜 streamlit_app.py   # Streamlit app (main entry point)
+│── 📜 notebook.ipynb     # Jupyter Notebook (for testing/experiments)
 │── 📂 img                    # Images folder
 │   │── 📸 screenshot.png     # Screenshot of the app
 
