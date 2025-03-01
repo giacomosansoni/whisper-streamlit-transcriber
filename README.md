@@ -1,6 +1,8 @@
 # 🎤 YouTube Transcriber  
 *A Streamlit app to download and transcribe YouTube audio using OpenAI Whisper.*  
 
+![App Screenshot](Screenshot 2025-03-01 alle 21.06.19.png)
+
 ## Structure   
 1. **Downloads audio from YouTube videos** using `yt-dlp`  
 2. **Transcribes speech** using OpenAI’s **Whisper model**  
